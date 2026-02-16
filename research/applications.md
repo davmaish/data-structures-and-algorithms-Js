@@ -29,13 +29,15 @@ Image processing software
 Data analytics tools
 
 
-WHY IT IT IS USED.
+WHY IT IS USED.
 
 
 Arrays allow fast access using index numbers (O(1) time complexity), making them efficient for storing and retrieving structured data.
 
-2️. Stack (LIFO)
-Where It Is Applied
+
+2️. STACK (LIFO)
+
+WHERE IT IS APPLIED.
 
 Function calls (Call Stack)
 
@@ -49,7 +51,9 @@ Push and Pop operations
 
 Depth First Search (DFS)
 
-Real Applications
+
+REAL APPLICATIONS
+
 
 Web browsers (back button history)
 
@@ -57,12 +61,15 @@ Text editors (Undo/Redo)
 
 Programming language execution
 
-Why It Is Used
+
+WHY IT IS USED.
 
 Stack follows Last-In-First-Out (LIFO), making it ideal for nested operations and memory management.
 
-3️. Queue (FIFO)
-Where It Is Applied
+
+3️. QUEUE (FIFO)
+
+WHERE IT IS APPLIED
 
 CPU scheduling
 
@@ -76,7 +83,7 @@ Enqueue and Dequeue
 
 Breadth First Search (BFS)
 
-Real Applications
+REAL APPLICATIONS.
 
 Printer spoolers
 
@@ -84,12 +91,15 @@ Customer service systems
 
 JavaScript Event Loop (callback queue)
 
-Why It Is Used
+
+WHY IT IS USED.
 
 Queue follows First-In-First-Out (FIFO), ensuring fairness in processing tasks.
 
-4. Linked List
-Where It Is Applied
+
+4. LINKED LIST
+
+WHERE IT IS APPLIED
 
 Dynamic memory allocation
 
@@ -105,18 +115,22 @@ Deletion
 
 Traversal
 
-Real Applications
+REAL APPLICATIONS.
+
 
 Spotify playlist management
 
 Browser session management
 
-Why It Is Used
+
+WHY IT IS USED
 
 Linked Lists allow dynamic resizing and efficient insertion/deletion without shifting elements.
 
-5️. Tree
-Where It Is Applied
+
+5️. TREE
+
+WHERE IT IS USED.
 
 File systems
 
@@ -130,7 +144,9 @@ Tree Traversals (Inorder, Preorder, Postorder)
 
 Binary Search Tree operations
 
-Real Applications
+
+REAL APPLICATIONS.
+
 
 Windows File Explorer
 
@@ -138,12 +154,14 @@ MySQL database indexing (B-Trees)
 
 HTML DOM structure
 
-Why It Is Used
+WHY IT IS USED.
 
 Trees represent hierarchical relationships efficiently and allow faster searching in structured data.
 
-6️. Graph
-Where It Is Applied
+6️. GRAPH
+
+WHERE IT IS USED.
+
 
 Social networks
 
@@ -159,7 +177,9 @@ Breadth First Search (BFS)
 
 Depth First Search (DFS)
 
-Real Applications
+
+REAL APPLICATIONS.
+
 
 Google Maps (shortest path calculation)
 
@@ -167,10 +187,7 @@ Facebook friend network
 
 Internet routing systems
 
-Why It Is Used
+
+WHY IT IS USED.
 
 Graphs model relationships between entities and are ideal for solving connectivity and path-finding problems.
-
-Conclusion
-
-Data Structures and Algorithms are fundamental in building efficient systems. Each data structure is selected based on the type of data, operations required, and performance needs. Proper selection improves speed, memory usage, and scalability of software systems.
