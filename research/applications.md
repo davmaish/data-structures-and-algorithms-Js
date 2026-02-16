@@ -1,6 +1,8 @@
- Applications of Data Structures and Algorithms
-1️. Array
-Where It Is Applied
+APPLICATIONS OF DATA STRUCTURES AND ALGORITHMS
+
+1️. ARRAY
+
+WHERE IT IS APPLIED.
 
 Storing collections of data (marks, prices, user IDs)
 
@@ -16,7 +18,9 @@ Binary Search
 
 Sorting algorithms (Bubble Sort, Insertion Sort)
 
-Real Applications
+
+REAL APPLICATIONS.
+
 
 Microsoft Excel (stores data in tabular format)
 
@@ -24,7 +28,9 @@ Image processing software
 
 Data analytics tools
 
-Why It Is Used
+
+WHY IT IT IS USED.
+
 
 Arrays allow fast access using index numbers (O(1) time complexity), making them efficient for storing and retrieving structured data.
 
